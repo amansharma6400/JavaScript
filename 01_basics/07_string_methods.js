@@ -42,7 +42,7 @@ let conCatString=str.concat(" and I'm currently learing string methods in JavaSc
 console.log(conCatString)
 
 //TRIM method in string:trim()
-let trimString=str.trim()//remove the extra white space from the string
+let trimString=str.trim()//remove the extra white space from both the end of the string
 console.log(trimString)
 
 //EVALUATE method in string: eval()
